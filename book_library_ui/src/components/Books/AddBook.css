@@ -1,0 +1,14 @@
+.btn-submit {
+    background-color: white;
+    color: #007bff; /* Change the text color to the primary color of the theme */
+    border: 1px solid #007bff; /* Add a border to the button */
+  }
+  
+  .btn-submit:hover {
+    background-color: #007bff; /* Change the background color on hover */
+    color: white; /* Change the text color on hover */
+  }
+  
+  button#submit {
+    margin-top: 20px;
+}
